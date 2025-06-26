@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+}
+
+/* LinktreePage.css */
+.linktree-container {
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .content-wrapper {
+    max-width: 600px;
+    width: 100%;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  }
+  
+  .profile-section {
+    margin-bottom: 30px;
+  }
+  
+  .profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #bc9161;
+    margin-bottom: 15px;
+  }
+  
+  .profile-title {
+    font-size: 36px;
+    margin: 0;
+    color: #bc9161;
+    font-weight: 700;
+  }
+  
+  .profile-subtitle {
+    font-size: 16px;
+    margin: 5px 0 0;
+    opacity: 0.9;
+  }
+  
+  .links-section {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px;
+  }
+  
+  .link-button {
+    display: block;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  .link-button:hover {
+    background-color: rgba(188, 145, 97, 0.3);
+    transform: translateY(-2px);
+  }
+  
+  .link-button.primary-link {
+    background-color: rgba(188, 145, 97, 0.7);
+    font-weight: 600;
+  }
+  
+  .link-button.primary-link:hover {
+    background-color: rgba(188, 145, 97, 0.9);
+  }
+  
+  .link-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .link-icon {
+    font-size: 20px;
+  }
+  
+  .link-text {
+    font-size: 18px;
+  }
+  
+  .footer {
+    font-size: 15px;
+    opacity: 0.7;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 480px) {
+    .content-wrapper {
+      padding: 20px;
+    }
+    
+    .profile-image {
+      width: 100px;
+      height: 100px;
+    }
+    
+    .profile-title {
+      font-size: 24px;
+    }
+    
+    .link-text {
+      font-size: 14px;
+    }
+  }
