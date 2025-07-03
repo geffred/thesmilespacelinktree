@@ -27,7 +27,7 @@ const LinktreePage = () => {
 
         <div className="links-section">
           <a
-            href="https://www.google.com/search?sca_esv=031453346484e3fe&sxsrf=AE3TifMg65G3vZ2GWuznJCRPBN6gsSTxnA:1750937268313&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E-JwdQ_Ty5x0FaxlrmQ66N9ekXZuyj0bmTdekm8eB5Gunh7ZmjlL0tcWuDSLcfcj_aJnA38e6sB4bx-KbbUSGOkkaLrKa3IBKpsASoMGipHqg9IiJElA0eTB0zSUC_XbMyL1t9138har3Vp3FyrejsMnXDp749DedX8bV7HxVUCDcmlGfw%3D%3D&q=The+Smile+Space+-+Cabinet+d%27orthodontie+et+de+dentisterie+p%C3%A9diatrique+%C3%A0+Soignies+Avis&sa=X&ved=2ahUKEwiknZvP_Y6OAxUYAfsDHfLCIxMQ0bkNegQIKRAE&biw=1920&bih=919&dpr=1"
+            href="https://www.google.com/search?client=safari&sca_esv=29db07fc8cf0577a&hl=fr-be&q=avis+sur+the+smile+space&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzkAn00025F2C_QwhT9HnqZyIhPyQgJYcNpDkhgyF0khJR9jU6LmClVlL3oW9UmlIOZQTLdNOfH4WXVIyrMt7G0icUFRsQCOXZCK_IVMiz4x26oc7x_Q5MJYSKCU-kUPyddx-7Zo4Dulszvcnm7KPJStnHhAE&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E-JwdQ_Ty5x0FaxlrmQ66N_IC5hpw1BVUP_yKfmMiY-Wy7pCvIR1ltIGiRcjRTZY1gyDHNMtfa2zKb3YrKd27G92a5Um-1a4mH-TLahdzU1QGQuK8g%3D%3D&sa=X&ved=2ahUKEwi3hr37xaCOAxXuaqQEHZ8xHhYQxKsJKAB6BAgKEAE&ictx=1&stq=1&cs=1&lei=RGRmaLfUAu7VkdUPn-P4sAE"
             target="_blank"
             rel="noopener noreferrer"
             className="link-button"
