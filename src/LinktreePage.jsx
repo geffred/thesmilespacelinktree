@@ -65,7 +65,7 @@ const LinktreePage = () => {
           </a>
 
           <a
-            href="https://calendly.com/thesmilespace"
+            href="https://calendly.com/mons-thesmilespace/the-smile-space-nouveau-cabinet-d-orthodontie-a-mons"
             target="_blank"
             rel="noopener noreferrer"
             className="link-button primary-link"
