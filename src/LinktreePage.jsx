@@ -63,6 +63,25 @@ const LinktreePage = () => {
               <span className="link-text">Suivez-nous sur Instagram</span>
             </div>
           </a>
+
+          <a
+            href="https://www.facebook.com/TheSmileSpaceBelgium/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="link-button"
+          >
+            <div className="link-content">
+              <span className="link-icon">
+                <img
+                  src="/facebook-1-svgrepo-com.svg"
+                  alt="Instagram Icon"
+                  className="instagram-icon"
+                  style={{ width: "55px", height: "55px" }}
+                />
+              </span>
+              <span className="link-text">Suivez-nous sur Instagram</span>
+            </div>
+          </a>
         </div>
 
         <footer className="footer">
