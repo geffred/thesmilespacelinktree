@@ -38,7 +38,7 @@ const LinktreePage = () => {
                   src="/google-color-svgrepo-com.svg"
                   alt="Google Icon"
                   className="google-icon"
-                  style={{ width: "50px", height: "50px" }}
+                  style={{ width: "48px", height: "48px" }}
                 />
               </span>
               <span className="link-text">Nos avis google (5 étoiles)</span>
